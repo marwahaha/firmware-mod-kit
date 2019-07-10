@@ -1,5 +1,5 @@
 #Firmware Modification Kit
-This project was abandonned on Google Code for 2 years so I am now maintaining and keeping the project up to date
+This project was abandoned on Google Code for 2 years so I am now maintaining and keeping the project up to date
 
 This kit is a collection of scripts and utilities to extract and rebuild linux based firmware images.
 
